@@ -2,9 +2,11 @@
 Applying clustering algorithms like Latent Dirichlet Allocation (LDA) or K-means to group similar documents together for topic modeling and understanding large text corpora.
 
 **Step-by-Step Guide**
+
 **1. Install necessary libraries:**
 
-pip install numpy pandas scikit-learn nltk gensim
+      pip install numpy pandas scikit-learn nltk gensim
+
 **2. Extract and Load the Data:**
 Let's load the dataset from the specified location.
 
@@ -16,7 +18,8 @@ Convert the text data into numerical form using techniques like TF-IDF.
 
 **5. Apply Clustering Algorithms:**
 
-      LDA for topic modeling.
-      K-means for document clustering.
+    LDA for topic modeling.
+    K-means for document clustering.
+    
 **6. Analyze the Results:**
 Visualize and interpret the clustering results.
